@@ -1,0 +1,19 @@
+{
+  "name": "constant-dripping-wears-away-stone",
+  "version": "1.0.0",
+  "description": "constant effort brings success",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wal1e/constant-dripping-wears-away-stone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wal1e/constant-dripping-wears-away-stone/issues"
+  },
+  "homepage": "https://github.com/Wal1e/constant-dripping-wears-away-stone#readme"
+}
