@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Wal1e/constant-dripping-wears-away-stone/issues"
   },
-  "homepage": "https://github.com/Wal1e/constant-dripping-wears-away-stone#readme"
+  "homepage": "https://github.com/Wal1e/constant-dripping-wears-away-stone#readme",
+  "dependencies": {
+    "parallel-webpack": "^2.6.0"
+  }
 }

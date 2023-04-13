@@ -11,3 +11,8 @@ https://juejin.cn/post/7082655545491980301
 ## 浏览器事件循环机制
 
 https://juejin.cn/post/6844903606466904078
+
+## 关于浏览器性能的科普
+
+https://web.dev/lcp/
+https://zhuanlan.zhihu.com/p/98880815
